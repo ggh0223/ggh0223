@@ -3,4 +3,5 @@
 + Currently studying software engineering in Codestates.
 + Interested in backend development.
 
-<img src="https://img.shields.io/badge/-JavaScript-#F7DF1E.svg?&logo=Javascript&logoColor=white"/>
+
+https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=30
